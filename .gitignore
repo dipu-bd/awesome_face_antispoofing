@@ -1,0 +1,8 @@
+*.pyc
+.vscode
+__pycache__/
+checkpoints/
+custom_data/
+result/
+venv/
+models/pre-trainedModels/
